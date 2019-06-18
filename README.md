@@ -2,5 +2,7 @@
 Fractal - Sierpinski Triangle - C
 
 Run:      make run
-Compile:  make all 
+
+Compile:  make all
+
 Clean:    make clean
